@@ -1,0 +1,1 @@
+A terminal Based AIchatbot made using GOLang with Langchain on top of Gemini.
